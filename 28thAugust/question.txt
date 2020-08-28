@@ -1,0 +1,10 @@
+Write a program in C++ ,which will calculate, area of following geometric shapes:
+ Rectangle, Square, Circle and Triangle.
+Use :  function overloading.
+Take input from the user.
+
+Given:
+Area of Rectangle A=w*L  [w=width L=length]
+Area of Square A  =   a2   [a=side]
+Area of Circle  A = 22.7 * r2
+Area of Triangle  A=1/2   * (base* perpendicular height)
