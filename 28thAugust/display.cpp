@@ -33,7 +33,7 @@ class Emp
 
 int main()
 {
-    Emp e[5];//Emp e[0],e[1],e[2],e[4],e[5];
+    Emp e[5];
 
     for(int i=0;i<5;i++){
         e[i].getdata();
