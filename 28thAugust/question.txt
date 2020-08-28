@@ -1,10 +1,16 @@
-Write a program in C++ ,which will calculate, area of following geometric shapes:
- Rectangle, Square, Circle and Triangle.
-Use :  function overloading.
-Take input from the user.
+1.  Write a program in C++ ,which will calculate, area of following geometric shapes:
+    Rectangle, Square, Circle and Triangle.
+    Use :  function overloading.
+    Take input from the user.
 
-Given:
-Area of Rectangle A=w*L  [w=width L=length]
-Area of Square A  =   a2   [a=side]
-Area of Circle  A = 22.7 * r2
-Area of Triangle  A=1/2   * (base* perpendicular height)
+    Given:
+    Area of Rectangle A=w*L  [w=width L=length]
+    Area of Square A  =   a2   [a=side]
+    Area of Circle  A = 22.7 * r2
+    Area of Triangle  A=1/2   * (base* perpendicular height)
+
+
+2.  Write a class Employee with the following details: ID,Address,Age,Salary
+    Take input for 5 employees from user. And display the details.
+    Use proper member functions for the class.
+    Note: avoid access, member variables from main().
